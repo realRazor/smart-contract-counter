@@ -7,6 +7,7 @@ contract Counter {
 
     constructor(uint _num) {
         number = _num;
+        
     }
 
     function increment() public {
